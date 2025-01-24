@@ -1,4 +1,4 @@
-# Video Scanner Docker ![Video Scanner Icon](images/icon.png)
+![Video Scanner Icon](images/icon.png) # Video Scanner Docker 
 
 
 
