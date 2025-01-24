@@ -1,6 +1,6 @@
-# Video Scanner Docker
+# Video Scanner Docker ![Video Scanner Icon](images/icon.png)
 
-![Video Scanner Icon](images/icon.png)
+
 
 
 This repository provides a Docker container that scans video files for corruption using **ffmpeg**. It uses a PowerShell script (`scan_videos.ps1`) to:
